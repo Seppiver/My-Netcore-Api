@@ -1,2 +1,2 @@
 obj/
-bin/
+bin/git commit -m "Update .gitignore to ignore obj and bin directories"git commit -m "Update .gitignore to ignore obj and bin directories"
