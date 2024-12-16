@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\my-netcore-api.props" />
+</Project>
