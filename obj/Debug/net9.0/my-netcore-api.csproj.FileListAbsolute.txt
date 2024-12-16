@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyects\ProyectNetCore\my-netcore-api\obj\Debug\net9.0\my-netcore-api.MvcApplicationPartsAssemblyInfo.cache
